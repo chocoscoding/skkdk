@@ -1,0 +1,12 @@
+{
+    "name": "CCD",
+    "symbol": "CCD",
+    "description": "Chocos Coding",
+    "image": "https://github.com/chocoscoding/skkdk/blob/main/chocosimage.png?raw=true",
+    "attributes": [
+      {
+        "trait_type": "Token",
+        "value": "Nerd"
+      }
+    ]
+  }
