@@ -1,0 +1,12 @@
+{
+    "name": "SOLMANT",
+    "symbol": "SOLMANT",
+    "description": "Solman Test",
+    "image": "https://github.com/chocoscoding/skkdk/blob/main/solmant.png?raw=true",
+    "attributes": [
+      {
+        "trait_type": "Token",
+        "value": "Nerd"
+      }
+    ]
+  }
